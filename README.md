@@ -1,4 +1,10 @@
-# service [![GoDoc](https://godoc.org/github.com/kardianos/service?status.svg)](https://godoc.org/github.com/kardianos/service)
+
+##### 版权声明:
+> `github.com/googx/service` forked自 `github.com/kardianos/service`
+
+    github.com/googx/service 项目forked自 github.com/kardianos/service 项目,该次提交之前的代码版权(包括不限于著作权)归为原作者所有,
+    本次提交(以git提交hash:4df36c9fc1c6ac86231851ad6fa5627e184c94e5为分界点)之后的修改的代码版权(包括不限于著作权)为googx作者所有.
+    特此声明!
 
 service will install / un-install, start / stop, and run a program as a service (daemon).
 Currently supports Windows XP+, Linux/(systemd | Upstart | SysV), and OSX/Launchd.
